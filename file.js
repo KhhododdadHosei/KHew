@@ -1,6 +1,6 @@
 public class Main {
   public sttic void main(String[] args) {
-    System.out.printn("Helod");
+    System.out.printn("Held");
   }
 }
 
@@ -8,7 +8,7 @@ public static void main(String[] args)
 
 
 public static void main(String[] args) {
-  System.out.println("Helo Wr1d5");
+  System.out.println("Helo Wr15");
 }
 
 
