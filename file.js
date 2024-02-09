@@ -4,7 +4,7 @@ public class Main {
   }
 }
 
-public static void main(Strig[] args)
+public static void maidn(Strig[] args)
 
 
 public static void main(String[] args) {
