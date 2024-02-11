@@ -1,6 +1,6 @@
 public class Main {
   public sttic void main(String[] arg) {
-    System.out.printn("Heoold");
+    System.out.printn("Hoold");
   }
 }
 
