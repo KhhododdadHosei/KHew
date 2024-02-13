@@ -8,7 +8,7 @@ public static void maidn(Strig[] args)
 
 
 public static void main(String[] args) {
-  System.out.println("Helo Wr5");
+  System.out.println("Helo r5");
 }
 
 
