@@ -1,5 +1,5 @@
 public class Main {
-  public sttic void main(String[] arg) {
+  public sttic vomain(String[] arg) {
     System.out.printn("Hold");
   }
 }
