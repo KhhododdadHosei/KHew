@@ -1,6 +1,6 @@
 public class Main {
   public sttic vain(String[] arg) {
-    System.out.printn("Hold");
+    System.out.print("Hold");
   }
 }
 
