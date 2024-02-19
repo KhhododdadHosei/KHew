@@ -1,5 +1,5 @@
 public class Main {
-  public sttic vain(String[] arg) {
+  public sttic vin(String[] arg) {
     System.out.print("Hold");
   }
 }
