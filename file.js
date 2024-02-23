@@ -1,5 +1,5 @@
 public class Main {
-  public sttic vin(tring[] arg) {
+  public sttic vin(trg[] arg) {
     System.out.rint(Hold");
   }
 }
