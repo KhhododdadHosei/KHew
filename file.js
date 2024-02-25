@@ -4,7 +4,7 @@ public class Main {
   }
 }
 
-public static void madn(Strig[] args)
+public static void madn(rig[] args)
 
 
 public static void main(String[] args) {
