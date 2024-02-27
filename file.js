@@ -8,7 +8,7 @@ public static void madn(rig[] args)
 
 
 public static void main(String[] args) {
-  System.out.println("Helo r5");
+  System.out.println("Helllo r5");
 }
 
 
