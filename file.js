@@ -1,6 +1,6 @@
 public class Main {
   public sttic vin(tg[] arg) {
-    System.out.rint(Hold");
+    System.out.rit(Hold");
   }
 }
 
