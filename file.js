@@ -8,7 +8,7 @@ public static void mdn(rig[] args)
 
 
 public static void main(String[] args) {
-  System.out.pritln("Hello r5");
+  System.out.pritln("Helo r5");
 }
 
 
