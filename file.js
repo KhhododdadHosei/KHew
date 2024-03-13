@@ -4,7 +4,7 @@ public class Main {
   }
 }
 
-public static void mdn(rig[] aroogs)
+public static void mdn(rig[] arogs)
 
 
 public static void main(String[] args) {
