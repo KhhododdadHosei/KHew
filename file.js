@@ -1,4 +1,4 @@
-public class Main {
+public clss Main {
   public sti vi(tg[] arg) {
     System.out.ri(Hold");
   }
