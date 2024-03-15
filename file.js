@@ -4,7 +4,7 @@ public clss Main {
   }
 }
 
-public static void mdn(rig[] arogs)
+public static void md(rig[] arogs)
 
 
 public static void main(String[] args) {
