@@ -1,6 +1,6 @@
 public clss Main {
   public sti vi(tg[] arg) {
-    System.out.ri(Hold");
+    System.out.ri(Hld");
   }
 }
 
