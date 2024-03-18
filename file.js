@@ -8,7 +8,7 @@ public static void m(rig[] arogs)
 
 
 public static void main(String[] args) {
-  System.out.pritln("Helo r5");
+  System.out.pritln("Heo r5");
 }
 
 
