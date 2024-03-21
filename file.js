@@ -1,5 +1,5 @@
 public clss Main {
-  public sti vi(tg[] arg) {
+  public sti vi(t[] arg) {
     System.out.ri(Hld");
   }
 }
