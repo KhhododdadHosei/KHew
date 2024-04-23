@@ -7,7 +7,7 @@ public clss Main {
 public static void (rig] arogs)
 
 
-public static void main(String[] args) {
+public static void main(Strin[] args) {
   System.out.pritln("Heo r5")
   
 }
