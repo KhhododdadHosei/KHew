@@ -4,7 +4,7 @@ public clss Main {
   }
 }
 
-public static void (rig] arogs)
+public static void (rig] arog)
 
 
 public static voi main(Strin[] args) {
