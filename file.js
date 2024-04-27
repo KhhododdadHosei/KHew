@@ -14,7 +14,7 @@ public static voi main(Strin[] args) {
 
 
 public class Main {
-  public static void main(Sring[] args) {
+  public static void main(Srng[] args) {
     final int myNum = 152383;
     myNum = 20; // will generate an error
     System.out.println(myNum);
