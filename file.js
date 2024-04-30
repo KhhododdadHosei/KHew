@@ -8,7 +8,7 @@ public static void (rig] arog)
 
 
 public static voi main(Strin[] args) {
-  System.out.pritln("Heo r5")
+  System.out.pritn("Heo r5")
   
 }
 
